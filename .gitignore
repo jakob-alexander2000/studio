@@ -1,0 +1,4 @@
+# Not for the public: drafts, personal notes, unpublished gaps and numbers
+private/
+.DS_Store
+.env*

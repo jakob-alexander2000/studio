@@ -9,7 +9,7 @@ You are helping Jakob, a computer science student building AI tools that show th
 3. Write in Jakob's voice: first person, plain, friendly, concrete. Load `.claude/skills/unslop/SKILL.md` before writing any copy or UI.
 4. Put output in the right layer folder, dated `YYYY-MM-DD`. One file per thing.
 5. Nothing ships without passing `checks/gates.md`. A failure is written down, not hidden.
-6. Keep private things private: no location, phone, income, employer names or private repos in anything public.
+6. This repo is public. No location, phone, income, employer names, private repo contents, unpublished numbers or personal notes. Anything not meant for the public goes in `private/`, which git ignores.
 
 ## Where things go
 
