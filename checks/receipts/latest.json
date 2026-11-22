@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-22",
+  "receipts": [
+    {
+      "project": "citebot",
+      "eval": "handbook-golden",
+      "passed": 8,
+      "total": 8,
+      "commit": "2ec2319",
+      "file": "2026-11-22-citebot-handbook-golden.json"
+    },
+    {
+      "project": "retrieval-autopsy",
+      "eval": "unit-and-trap",
+      "passed": 23,
+      "total": 23,
+      "commit": "584ac36",
+      "file": "2026-11-22-retrieval-autopsy-unit-and-trap.json"
+    },
+    {
+      "project": "style-distance",
+      "eval": "unit-and-parity",
+      "passed": 9,
+      "total": 9,
+      "commit": "37dbefa",
+      "file": "2026-11-22-style-distance-unit-and-parity.json"
+    }
+  ]
+}

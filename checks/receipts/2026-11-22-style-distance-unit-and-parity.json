@@ -1,0 +1,14 @@
+{
+  "project": "style-distance",
+  "eval": "unit-and-parity",
+  "what": "Burrows' Delta in the browser, and parity with the Python reference",
+  "date": "2026-11-22",
+  "commit": "37dbefa",
+  "model": "",
+  "passed": 9,
+  "total": 9,
+  "cost_per_task": null,
+  "p95_ms": null,
+  "failures": [],
+  "judge_agreement": null
+}
