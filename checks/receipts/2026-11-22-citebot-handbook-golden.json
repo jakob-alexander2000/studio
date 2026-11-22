@@ -1,0 +1,14 @@
+{
+  "project": "citebot",
+  "eval": "handbook-golden",
+  "what": "8 handbook questions through the agent loop; verify must pass true claims and fail the planted 25-day draft",
+  "date": "2026-11-22",
+  "commit": "2ec2319",
+  "model": "",
+  "passed": 8,
+  "total": 8,
+  "cost_per_task": null,
+  "p95_ms": null,
+  "failures": [],
+  "judge_agreement": null
+}

@@ -1,0 +1,14 @@
+{
+  "project": "retrieval-autopsy",
+  "eval": "unit-and-trap",
+  "what": "the four checks, BM25 ranking and the annual-leave trap (a dropped condition must fail Qualifier)",
+  "date": "2026-11-22",
+  "commit": "584ac36",
+  "model": "",
+  "passed": 23,
+  "total": 23,
+  "cost_per_task": null,
+  "p95_ms": null,
+  "failures": [],
+  "judge_agreement": null
+}
