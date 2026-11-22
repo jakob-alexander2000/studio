@@ -1,1 +1,5 @@
 week,topic,mentions,sources
+2026-W47,agent evals,3,dev.to agent-eval news; evalshift; benger
+2026-W47,model routing,1,evalshift
+2026-W47,german llm benchmarks,3,moeve; benger; peerbench
+2026-W47,eu ai act,1,white & case
