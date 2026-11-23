@@ -1,0 +1,14 @@
+{
+  "project": "answer-checker",
+  "eval": "unit",
+  "what": "every package's tests: the four checks in English and German, claim mode on recorded cases, the voice check with Python parity, the API, the GitHub Action and the playground",
+  "date": "2026-11-23",
+  "commit": "89357c1",
+  "model": "",
+  "passed": 81,
+  "total": 81,
+  "cost_per_task": null,
+  "p95_ms": null,
+  "failures": [],
+  "judge_agreement": null
+}

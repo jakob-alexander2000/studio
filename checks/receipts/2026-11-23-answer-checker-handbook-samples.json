@@ -1,0 +1,14 @@
+{
+  "project": "answer-checker",
+  "eval": "handbook-samples",
+  "what": "12 sample answers through the product's own GitHub Action: each faithful answer must pass, each drifted one must fail the named check",
+  "date": "2026-11-23",
+  "commit": "89357c1",
+  "model": "",
+  "passed": 12,
+  "total": 12,
+  "cost_per_task": null,
+  "p95_ms": null,
+  "failures": [],
+  "judge_agreement": null
+}
